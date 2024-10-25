@@ -11,3 +11,6 @@ respectivos pesos.
 2. Se debe calcular el promedio ponderado de las materias.
 3. Si el promedio ponderado es mayor o igual a 3.5, el estudiante aprueba.
 4. Si el promedio es menor a 2.5, el estudiante debe repetir el curso.
+
+Enlace video explicativo:
+https://cesdenet-my.sharepoint.com/:v:/g/personal/rbcossiova_cesde_net/EcBkFnE61MdGubTPt25biEgB6rObj9GxlciHregXgMVzWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NRraIp
